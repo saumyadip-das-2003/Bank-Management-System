@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AIUB SEMESTER\\5 AIUB FALL 2024-25\\OOP2\\BANK\\BANK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60F35A51-1D3D-4E0D-BAA2-037F3ABF56DD}|BANK\\BANK.csproj|d:\\aiub semester\\5 aiub fall 2024-25\\oop2\\bank\\bank\\bank\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F35A51-1D3D-4E0D-BAA2-037F3ABF56DD}|BANK\\BANK.csproj|solutionrelative:bank\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F35A51-1D3D-4E0D-BAA2-037F3ABF56DD}|BANK\\BANK.csproj|D:\\AIUB SEMESTER\\5 AIUB FALL 2024-25\\OOP2\\BANK\\BANK\\bank\\customerreg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F35A51-1D3D-4E0D-BAA2-037F3ABF56DD}|BANK\\BANK.csproj|solutionrelative:bank\\customerreg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F35A51-1D3D-4E0D-BAA2-037F3ABF56DD}|BANK\\BANK.csproj|D:\\AIUB SEMESTER\\5 AIUB FALL 2024-25\\OOP2\\BANK\\BANK\\bank\\customerreg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60F35A51-1D3D-4E0D-BAA2-037F3ABF56DD}|BANK\\BANK.csproj|solutionrelative:bank\\customerreg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F35A51-1D3D-4E0D-BAA2-037F3ABF56DD}|BANK\\BANK.csproj|D:\\AIUB SEMESTER\\5 AIUB FALL 2024-25\\OOP2\\BANK\\BANK\\bank\\customerloans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F35A51-1D3D-4E0D-BAA2-037F3ABF56DD}|BANK\\BANK.csproj|solutionrelative:bank\\customerloans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F35A51-1D3D-4E0D-BAA2-037F3ABF56DD}|BANK\\BANK.csproj|D:\\AIUB SEMESTER\\5 AIUB FALL 2024-25\\OOP2\\BANK\\BANK\\bank\\customerloans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60F35A51-1D3D-4E0D-BAA2-037F3ABF56DD}|BANK\\BANK.csproj|solutionrelative:bank\\customerloans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F35A51-1D3D-4E0D-BAA2-037F3ABF56DD}|BANK\\BANK.csproj|D:\\AIUB SEMESTER\\5 AIUB FALL 2024-25\\OOP2\\BANK\\BANK\\bank\\loanoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60F35A51-1D3D-4E0D-BAA2-037F3ABF56DD}|BANK\\BANK.csproj|solutionrelative:bank\\loanoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F35A51-1D3D-4E0D-BAA2-037F3ABF56DD}|BANK\\BANK.csproj|D:\\AIUB SEMESTER\\5 AIUB FALL 2024-25\\OOP2\\BANK\\BANK\\bank\\customertransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F35A51-1D3D-4E0D-BAA2-037F3ABF56DD}|BANK\\BANK.csproj|solutionrelative:bank\\customertransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F35A51-1D3D-4E0D-BAA2-037F3ABF56DD}|BANK\\BANK.csproj|D:\\AIUB SEMESTER\\5 AIUB FALL 2024-25\\OOP2\\BANK\\BANK\\bank\\customertransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60F35A51-1D3D-4E0D-BAA2-037F3ABF56DD}|BANK\\BANK.csproj|solutionrelative:bank\\customertransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F35A51-1D3D-4E0D-BAA2-037F3ABF56DD}|BANK\\BANK.csproj|D:\\AIUB SEMESTER\\5 AIUB FALL 2024-25\\OOP2\\BANK\\BANK\\bank\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F35A51-1D3D-4E0D-BAA2-037F3ABF56DD}|BANK\\BANK.csproj|solutionrelative:bank\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F35A51-1D3D-4E0D-BAA2-037F3ABF56DD}|BANK\\BANK.csproj|D:\\AIUB SEMESTER\\5 AIUB FALL 2024-25\\OOP2\\BANK\\BANK\\bank\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60F35A51-1D3D-4E0D-BAA2-037F3ABF56DD}|BANK\\BANK.csproj|solutionrelative:bank\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBConn.cs",
+              "DocumentMoniker": "D:\\AIUB SEMESTER\\5 AIUB FALL 2024-25\\OOP2\\BANK\\BANK\\BANK\\DBConn.cs",
+              "RelativeDocumentMoniker": "BANK\\DBConn.cs",
+              "ToolTip": "D:\\AIUB SEMESTER\\5 AIUB FALL 2024-25\\OOP2\\BANK\\BANK\\BANK\\DBConn.cs",
+              "RelativeToolTip": "BANK\\DBConn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T08:26:03.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerReg.cs",
+              "DocumentMoniker": "D:\\AIUB SEMESTER\\5 AIUB FALL 2024-25\\OOP2\\BANK\\BANK\\BANK\\CustomerReg.cs",
+              "RelativeDocumentMoniker": "BANK\\CustomerReg.cs",
+              "ToolTip": "D:\\AIUB SEMESTER\\5 AIUB FALL 2024-25\\OOP2\\BANK\\BANK\\BANK\\CustomerReg.cs",
+              "RelativeToolTip": "BANK\\CustomerReg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T08:30:02.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerLoans.cs",
+              "DocumentMoniker": "D:\\AIUB SEMESTER\\5 AIUB FALL 2024-25\\OOP2\\BANK\\BANK\\BANK\\CustomerLoans.cs",
+              "RelativeDocumentMoniker": "BANK\\CustomerLoans.cs",
+              "ToolTip": "D:\\AIUB SEMESTER\\5 AIUB FALL 2024-25\\OOP2\\BANK\\BANK\\BANK\\CustomerLoans.cs",
+              "RelativeToolTip": "BANK\\CustomerLoans.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAnwK8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T08:29:22.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerLoans.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB SEMESTER\\5 AIUB FALL 2024-25\\OOP2\\BANK\\BANK\\BANK\\CustomerLoans.cs",
+              "RelativeDocumentMoniker": "BANK\\CustomerLoans.cs",
+              "ToolTip": "D:\\AIUB SEMESTER\\5 AIUB FALL 2024-25\\OOP2\\BANK\\BANK\\BANK\\CustomerLoans.cs [Design]",
+              "RelativeToolTip": "BANK\\CustomerLoans.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T08:29:20.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoanOperations.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB SEMESTER\\5 AIUB FALL 2024-25\\OOP2\\BANK\\BANK\\BANK\\LoanOperations.cs",
+              "RelativeDocumentMoniker": "BANK\\LoanOperations.cs",
+              "ToolTip": "D:\\AIUB SEMESTER\\5 AIUB FALL 2024-25\\OOP2\\BANK\\BANK\\BANK\\LoanOperations.cs [Design]",
+              "RelativeToolTip": "BANK\\LoanOperations.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T08:29:16.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerReg.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB SEMESTER\\5 AIUB FALL 2024-25\\OOP2\\BANK\\BANK\\BANK\\CustomerReg.cs",
+              "RelativeDocumentMoniker": "BANK\\CustomerReg.cs",
+              "ToolTip": "D:\\AIUB SEMESTER\\5 AIUB FALL 2024-25\\OOP2\\BANK\\BANK\\BANK\\CustomerReg.cs [Design]",
+              "RelativeToolTip": "BANK\\CustomerReg.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T08:29:05.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Transactions.cs",
+              "DocumentMoniker": "D:\\AIUB SEMESTER\\5 AIUB FALL 2024-25\\OOP2\\BANK\\BANK\\BANK\\Transactions.cs",
+              "RelativeDocumentMoniker": "BANK\\Transactions.cs",
+              "ToolTip": "D:\\AIUB SEMESTER\\5 AIUB FALL 2024-25\\OOP2\\BANK\\BANK\\BANK\\Transactions.cs",
+              "RelativeToolTip": "BANK\\Transactions.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAhwEcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T08:22:49.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Transactions.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB SEMESTER\\5 AIUB FALL 2024-25\\OOP2\\BANK\\BANK\\BANK\\Transactions.cs",
+              "RelativeDocumentMoniker": "BANK\\Transactions.cs",
+              "ToolTip": "D:\\AIUB SEMESTER\\5 AIUB FALL 2024-25\\OOP2\\BANK\\BANK\\BANK\\Transactions.cs [Design]",
+              "RelativeToolTip": "BANK\\Transactions.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T08:22:45.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerTransactions.cs",
+              "DocumentMoniker": "D:\\AIUB SEMESTER\\5 AIUB FALL 2024-25\\OOP2\\BANK\\BANK\\BANK\\CustomerTransactions.cs",
+              "RelativeDocumentMoniker": "BANK\\CustomerTransactions.cs",
+              "ToolTip": "D:\\AIUB SEMESTER\\5 AIUB FALL 2024-25\\OOP2\\BANK\\BANK\\BANK\\CustomerTransactions.cs",
+              "RelativeToolTip": "BANK\\CustomerTransactions.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAhwNoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T08:18:43.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerTransactions.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB SEMESTER\\5 AIUB FALL 2024-25\\OOP2\\BANK\\BANK\\BANK\\CustomerTransactions.cs",
+              "RelativeDocumentMoniker": "BANK\\CustomerTransactions.cs",
+              "ToolTip": "D:\\AIUB SEMESTER\\5 AIUB FALL 2024-25\\OOP2\\BANK\\BANK\\BANK\\CustomerTransactions.cs [Design]",
+              "RelativeToolTip": "BANK\\CustomerTransactions.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T08:18:40.478Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
